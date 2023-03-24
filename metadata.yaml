@@ -17,6 +17,9 @@ contributor:
     gutenberg_agent_id: '26809'
     url: http://www.gutenberg.org/2009/agents/26809
     wikipedia: https://en.wikipedia.org/wiki/Emilie_Poulsson
+covers:
+- cover_type: archival
+  image_path: 70274-h/images/backcover.jpg
 creator:
   author:
     agent_name: Zwilgmeyer, Dikken
@@ -31,6 +34,8 @@ creator:
     - https://en.wikipedia.org/wiki/Dikken_Zwilgmeyer
     - https://no.wikipedia.org/wiki/Dikken_Zwilgmeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70274#Inger-Johanne-s-Lively-Doings
 gutenberg_issued: '2023-03-12'
 identifiers:
   gutenberg: '70274'
